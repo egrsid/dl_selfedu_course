@@ -1,8 +1,9 @@
 datasets/
-ml_academy/
+ml_academy_yandex/
 fc_nn/weights
 .DS_Store
 dataset_gen_reg/
 model_regsun.tar
 *.jpg
 *.jpeg
+cnn/data
